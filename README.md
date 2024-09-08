@@ -7,7 +7,7 @@ or situations as required.
 
 Advanced Optimization Techniques
 When applied to the learning management system, optimization is the process of tweaking different factors in order to improve the results.
-Here are some key strategies: Here are some key strategies:
+Here are some key strategies:
 
 -> Hyperparameter Tuning: It has been established that; LLM performance highly depends on hyperparameters like learning rate, and batch size among others, and specifics of 
 the model architecture. Methods such as Grid Search, Random Search, and Bayesian Optimization enable the definition of the right hyperparameters to enhance the model’s 
